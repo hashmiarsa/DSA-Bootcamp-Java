@@ -3,6 +3,7 @@ package com.kunal;//folder hai basically
 import java.util.Scanner;
 
 public class Main {
+    //dry means dont repeat yourself or code
 
     public static void main(String[] args) {
         // Q: take input of 2 numbers and print the sum
