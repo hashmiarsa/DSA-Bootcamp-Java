@@ -25,7 +25,7 @@ public class Sum {
         System.out.print("Enter number 2: ");
         int num2 = in.nextInt();
         int sum = num1 + num2;
-        return sum;
+        return sum; //return means function end and the code below it will not run
 //        System.out.println("This will never execute");
     }
 
