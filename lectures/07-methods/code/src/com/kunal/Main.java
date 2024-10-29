@@ -1,4 +1,4 @@
-package com.kunal;
+package com.kunal;//folder hai basically
 
 import java.util.Scanner;
 
