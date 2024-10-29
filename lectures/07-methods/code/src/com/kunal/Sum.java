@@ -7,12 +7,12 @@ public class Sum {
 //        int ans = sum2();
 //        System.out.println(ans);
 
-        int ans = sum3(20, 30);
+        int ans = sum3(20, 30);//parameters
         System.out.println(ans);
     }
 
     // pass the value of numbers when you are calling the method in main()
-    static int sum3(int a, int b) {
+    static int sum3(int a, int b) {//arguments
         int sum = a + b;
         return sum;
     }
@@ -42,7 +42,8 @@ public class Sum {
     /*
         return_type name (arguments) {
             // body
-            return statement;
+            return statemente
+            //return type and function name type should have same datatype
         }
 
      */
