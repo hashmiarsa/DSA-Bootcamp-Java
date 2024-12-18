@@ -57,6 +57,7 @@ public class Main {
 
 // create a class
 // for every single student
+//class is a datatype
 class Student {
     int rno;
     String name;
